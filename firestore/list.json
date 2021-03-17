@@ -1,0 +1,19 @@
+{
+    "FullName":
+    {
+        "mapValue":
+        {
+            "fields":
+            {
+                "firstname":
+                {
+                    "stringValue":"farrukh"
+                },
+                "lastname":
+                {
+                    "stringValue":"sadykov"
+                }
+            }
+        }
+    }
+}
